@@ -158,6 +158,10 @@ plt.show()
 
 ### OUTPUT
 
+<img width="460" height="397" alt="image" src="https://github.com/user-attachments/assets/51ac339c-520f-459d-8c6d-d15a1d7d1439" />
+
+<img width="328" height="115" alt="image" src="https://github.com/user-attachments/assets/5d5b3bd4-b921-486d-9dcf-a4831084df15" />
+
 <img width="319" height="35" alt="image" src="https://github.com/user-attachments/assets/fdd3dd6b-4245-4ce3-b540-91b572b7601e" />
 
 ### Training Loss Vs Iteration Plot
